@@ -1,24 +1,15 @@
 # jogo-da-forca
 
-## Project setup
+jogo da forca feito por mim em vue.js com ajuda do https://github.com/william-costa
+
+Link do video: https://www.youtube.com/watch?v=M80y-fPHmWM
+
+## Para instalar as dependencias:
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Para compilar o projeto no localhost:
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
